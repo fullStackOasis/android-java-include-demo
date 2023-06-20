@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidIncludeDemo</string>
+    <string name="hello">This string was passed in to the include file.</string>
+    <string name="hello2">This string was passed in to the same include file.</string>
+</resources>
